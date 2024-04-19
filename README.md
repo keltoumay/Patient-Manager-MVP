@@ -18,6 +18,7 @@ To run the Patient Manager locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/keltoumay/Patient-Manager-MVP/tree/master
+
 Navigate to the project directory:
 bash
 Copy code
@@ -32,9 +33,9 @@ Once the installation is complete, you can start the development server:
 bash
 Copy code
 npm start
-Visit http://localhost:5000 in your web browser to access the application.
+Visit http://localhost:3000 in your web browser to access the application.
 
-Contributing
+## Contributing:
 We welcome contributions from the community! If you'd like to contribute to Patient Manager, please follow these guidelines:
 
 Fork the repository.
@@ -45,10 +46,11 @@ Create a new Pull Request.
 Related Projects
 Hospital Inventory Management: An inventory management system for hospitals.
 Telemedicine App: A telemedicine application for remote healthcare consultations.
-Licensing
+
+## Licensing
 Patient Manager is open-source software licensed under the MIT License.
 
-A couple resources:
+## A couple resources:
 What your code repository says about you
 Here’s an awesome list of READMEs
 markdown
