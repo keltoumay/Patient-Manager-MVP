@@ -19,20 +19,19 @@ To run the Patient Manager locally, follow these steps:
    ```bash
    git clone https://github.com/keltoumay/Patient-Manager-MVP/tree/master
 
-Navigate to the project directory:
-bash
-Copy code
-cd patient-manager
-Install dependencies:
-bash
-Copy code
-npm install
+2. Navigate to the project directory:
+   ```bash
+   cd patient-manager
+3. Install dependencies:
+   ```bash
+   npm install
+
 Usage
 Once the installation is complete, you can start the development server:
 
-bash
-Copy code
-npm start
+   ```bash
+   npm start
+
 Visit http://localhost:3000 in your web browser to access the application.
 
 ## Contributing:
