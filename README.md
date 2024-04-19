@@ -45,4 +45,24 @@ Create a new Pull Request.
 Related Projects
 Hospital Inventory Management: An inventory management system for hospitals.
 Telemedicine App: A telemedicine application for remote healthcare consultations.
-Licensing Patient Manager is open-source software licensed under the MIT License.
+Licensing
+Patient Manager is open-source software licensed under the MIT License.
+
+A couple resources:
+What your code repository says about you
+Here’s an awesome list of READMEs
+markdown
+Copy code
+
+In this README.md:
+
+- **Project Name**: Clearly stated at the top.
+- **Introduction**: Provides an overview of the project, including links to the deployed site, final project blog article, and author(s) LinkedIn profiles.
+- **Installation**: Instructions for installing the project locally.
+- **Usage**: Guidance on how to use the application.
+- **Contributing**: Guidelines for contributing to the project.
+- **Related Projects**: Links to related projects that users might find interesting.
+- **Licensing**: Information about the project's license.
+- **Screenshot**: Included to give users a visual representation of the application. Make sure to replace `/path/to/screenshot.png` with the actual path to your screenshot image.
+
+This structured README.md will help users understand your project better and encourage contributions from the community. Adjust the content and links according to your project's specifics.
